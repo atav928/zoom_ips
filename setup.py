@@ -21,5 +21,8 @@ setup(name=name, version=__version__,
       maintainer_email="adam@tavnets.com",
       packages=find_packages(),
       include_package_data=True,
-      install_requires=requirements
+      install_requires=requirements,
+      url = 'https://github.com/atav928/zoom_ips',
+      keywords=['v0.0.1', 'zoom'],
+      classifiers=[]
       )  # pragma: no cover
