@@ -22,7 +22,7 @@ setup(name=name, version=__version__,
       packages=find_packages(),
       include_package_data=True,
       install_requires=requirements,
-      url = 'https://github.com/atav928/zoom_ips',
-      keywords=['v0.0.1', 'zoom'],
+      url='https://github.com/atav928/zoom_ips',
+      keywords=['v0.0.2', 'zoom'],
       classifiers=[]
       )  # pragma: no cover
